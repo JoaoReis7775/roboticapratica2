@@ -1,3 +1,4 @@
+![GitHub repo size](https://img.shields.io/github/repo-size/joaoreis7775/roboticapratica2)
 # Robotica Pratica :computer:
 ## Projeto do site do robotica pratica 2
 Forma diferenciada
